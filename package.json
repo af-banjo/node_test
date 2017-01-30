@@ -1,0 +1,19 @@
+{
+  "name": "@af_banjo/npmtut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/af-banjo/node_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/af-banjo/node_test/issues"
+  },
+  "homepage": "https://github.com/af-banjo/node_test#readme",
+  "description": ""
+}
